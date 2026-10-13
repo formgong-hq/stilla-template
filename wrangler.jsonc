@@ -1,0 +1,6 @@
+{
+  // Lets the "Deploy to Cloudflare" button publish this folder as static assets.
+  "name": "stilla",
+  "compatibility_date": "2026-09-01",
+  "assets": { "directory": "." }
+}
