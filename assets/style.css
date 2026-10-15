@@ -135,7 +135,7 @@ details p{margin:0 0 18px;color:var(--ink-2);font-size:14px}
 .empty[hidden]{display:none}
 @media (max-width:900px){
   .grid,.grid.dense{grid-template-columns:repeat(2,1fr)}
-  .tile.right{grid-column:3/span 2}
+  .tile.right{grid-column:auto/span 2}
 .grid.dense .tile.right{grid-column:auto/span 2}
 .grid.dense .tile{grid-column:span 2}
   .col-hero{grid-template-columns:1fr}
