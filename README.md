@@ -1,8 +1,8 @@
 # Stilla: a calm activewear store with Formgong forms
 
-**Live demo:** https://stilla.formgong.com · Download: the [latest release](https://github.com/formgong/stilla-template/releases/latest) zip.
+**Live demo:** https://stilla.formgong.com · Download: the [latest release](https://github.com/formgong-hq/stilla-template/releases/latest) zip.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/formgong/stilla-template) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fformgong%2Fstilla-template&project-name=stilla&repository-name=stilla)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/formgong-hq/stilla-template) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fformgong-hq%2Fstilla-template&project-name=stilla&repository-name=stilla)
 
 Each button copies the site to your GitHub and publishes it. Then replace every `fk_your_access_key` in the `.html` files of your copy with your Formgong access key (free at https://formgong.com/new) and commit: the host republishes on its own.
 
